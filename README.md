@@ -6,7 +6,7 @@
 
 📍 Quilmes, Buenos Aires, Argentina
 
-[![Sitio web](https://img.shields.io/badge/Sitio_web-andresmora.com.ar-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://www.andresmora.com.ar)
+[![Sitio web](https://img.shields.io/badge/Sitio_web-andresmora.com.ar-8b5cf6?style=for-the-badge&logo=astro&logoColor=white)](https://www.andresmora.com.ar)<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-mora--andres-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mora-andres/)
 
 </div>
